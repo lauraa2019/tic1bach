@@ -1,8 +1,8 @@
+
+
+
 <?php
-   echo "Hola mundo\n";
-   echo "Hace un buen día para estudiar TIC\n";
-   echo "hola me llamo Laura y hoy tengo un buen día\n";
-   $k= "Hoy es un buen día";
-   $p= "para ir a la graduación ";
-   echo $k. "\n".$p."\n";
+for($a=1;$a<70;$a++){
+if($a/3!=abs ($a/3)}echo $a." \n";{
+}
 ?>
