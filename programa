@@ -1,8 +1,12 @@
-
-
-
 <?php
-for($a=1;$a<70;$a++){
-if($a/3!=abs ($a/3)}echo $a." \n";{
+for($a=1;$a<1000;$a++){
+       if(
+       ($a/2!=floor($a/2))&&($a/3!=floor($a/3))&&($a/5!=floor($a/5))&& ($a/7!=floor($a/7))     
+       ){
+       echo $a." \n";
+       
+       }
 }
 ?>
+
+
