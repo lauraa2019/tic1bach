@@ -10,3 +10,11 @@ for($a=1;$a<1000;$a++){
 ?>
 
 
+for (&i=0; $i<90; $i=$i+1)
+[
+echo "grados"
+echo $i
+echo " el seno es :";
+echo sin($i*pi()/180);
+]
+
